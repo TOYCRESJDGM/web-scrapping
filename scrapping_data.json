@@ -1,0 +1,20 @@
+{
+    "consultas": [
+      {
+        "tipo_actor": "Actor/Ofendido",
+        "documento": "0968599020001"
+      },
+      {
+        "tipo_actor": "Actor/Ofendido",
+        "documento": "0992339411001"
+      },
+      {
+        "tipo_actor": "Demandado/Procesado",
+        "documento": "1791251237001"
+      },
+      {
+        "tipo_actor": "Demandado/Procesado",
+        "documento": "0968599020001"
+      }
+    ]
+}

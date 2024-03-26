@@ -1,0 +1,700 @@
+[
+    {
+        "id": "1",
+        "C\u00e9dula/RUC/Pasaporte del Actor/Ofendido": "0968599020001",
+        "N\u00famero de proceso": "08332202400176",
+        "Fecha ingreso": "06/03/2024 16:13",
+        "Materia": "CIVIL",
+        "Tipo de acci\u00f3n": "ORDINARIO",
+        "Delito/Asunto": "NULIDAD DE SENTENCIA",
+        "Judicatura": "UNIDAD JUDICIAL MULTICOMPETENTE CIVIL DE QUININD\u00c9",
+        "Actor/Ofendido": "Empresa Electrica Publica Estrategica Corporacion Nacional De Electricidad Cnel Ep",
+        "Demandado/Procesado": "",
+        "activities": [
+            {
+                "date_activitie": "13/03/2024 15:23",
+                "title_activitie": "OFICIO (OFICIO)",
+                "name_file": "08332202400176_226613993_15_23_39_P20.pdf"
+            },
+            {
+                "date_activitie": "08/03/2024 15:09",
+                "title_activitie": "EXCUSA (RAZON DE NOTIFICACION)",
+                "name_file": "08332202400176_226226161_15_9_13_P21.pdf"
+            },
+            {
+                "date_activitie": "08/03/2024 08:47",
+                "title_activitie": "EXCUSA (AUTO INTERLOCUTORIO)",
+                "name_file": "08332202400176_226160298_8_47_29_P20.pdf"
+            },
+            {
+                "date_activitie": "06/03/2024 16:13",
+                "title_activitie": "ACTA DE SORTEO",
+                "name_file": "ACTA DE SORTEO_26015981"
+            },
+            {
+                "date_activitie": "06/03/2024 16:13",
+                "title_activitie": "CARATULA DE JUICIO",
+                "name_file": "CARATULA DE JUICIO_26015981"
+            }
+        ]
+    },
+    {
+        "id": "2",
+        "C\u00e9dula/RUC/Pasaporte del Actor/Ofendido": "0968599020001",
+        "N\u00famero de proceso": "13284202406765",
+        "Fecha ingreso": "29/02/2024 10:43",
+        "Materia": "TR\u00c1NSITO COIP",
+        "Tipo de acci\u00f3n": "CONTRAVENCIONES DE TR\u00c1NSITO",
+        "Delito/Asunto": "389 CONTRAVENCIONES DE TR\u00c1NSITO DE CUARTA CLASE, INC.1, NUM. 6",
+        "Judicatura": "UNIDAD JUDICIAL PENAL DE MANTA",
+        "Tipo de Ingreso": "Ingreso directo",
+        "No. proceso vinculado": "",
+        "Actor/Ofendido": "Empresa Electrica Publica Estrategica Corporacion Nacional De Electricidad Cnel Ep",
+        "Demandado/Procesado": "",
+        "activities": [
+            {
+                "date_activitie": "29/02/2024 10:43",
+                "title_activitie": "ACTA DE SORTEO",
+                "name_file": "ACTA DE SORTEO_25989939"
+            },
+            {
+                "date_activitie": "29/02/2024 10:43",
+                "title_activitie": "CARATULA DE JUICIO",
+                "name_file": "CARATULA DE JUICIO_25989939"
+            }
+        ]
+    },
+    {
+        "id": "3",
+        "C\u00e9dula/RUC/Pasaporte del Actor/Ofendido": "0968599020001",
+        "N\u00famero de proceso": "13284202406764",
+        "Fecha ingreso": "29/02/2024 10:40",
+        "Materia": "TR\u00c1NSITO COIP",
+        "Tipo de acci\u00f3n": "CONTRAVENCIONES DE TR\u00c1NSITO",
+        "Delito/Asunto": "389 CONTRAVENCIONES DE TR\u00c1NSITO DE CUARTA CLASE, INC.1, NUM. 6",
+        "Judicatura": "UNIDAD JUDICIAL PENAL DE MANTA",
+        "Tipo de Ingreso": "Ingreso directo",
+        "No. proceso vinculado": "",
+        "Actor/Ofendido": "Empresa Electrica Publica Estrategica Corporacion Nacional De Electricidad Cnel Ep",
+        "Demandado/Procesado": "",
+        "activities": [
+            {
+                "date_activitie": "02/03/2024 08:19",
+                "title_activitie": "ACTUARIALES (RAZON)",
+                "name_file": "13284202406764_225640278_8_19_33_P20.pdf"
+            },
+            {
+                "date_activitie": "29/02/2024 10:40",
+                "title_activitie": "ACTA DE SORTEO",
+                "name_file": "ACTA DE SORTEO_25989898"
+            },
+            {
+                "date_activitie": "29/02/2024 10:40",
+                "title_activitie": "CARATULA DE JUICIO",
+                "name_file": "CARATULA DE JUICIO_25989898"
+            }
+        ]
+    },
+    {
+        "id": "4",
+        "C\u00e9dula/RUC/Pasaporte del Actor/Ofendido": "0968599020001",
+        "N\u00famero de proceso": "13284202406763",
+        "Fecha ingreso": "29/02/2024 10:38",
+        "Materia": "TR\u00c1NSITO COIP",
+        "Tipo de acci\u00f3n": "CONTRAVENCIONES DE TR\u00c1NSITO",
+        "Delito/Asunto": "389 CONTRAVENCIONES DE TR\u00c1NSITO DE CUARTA CLASE, INC.1, NUM. 6",
+        "Judicatura": "UNIDAD JUDICIAL PENAL DE MANTA",
+        "Tipo de Ingreso": "Ingreso directo",
+        "No. proceso vinculado": "",
+        "Actor/Ofendido": "Empresa Electrica Publica Estrategica Corporacion Nacional De Electricidad Cnel Ep",
+        "Demandado/Procesado": "",
+        "activities": [
+            {
+                "date_activitie": "04/03/2024 15:51",
+                "title_activitie": "ACTUARIALES (RAZON)",
+                "name_file": "13284202406763_225738392_15_51_8_P20.pdf"
+            },
+            {
+                "date_activitie": "29/02/2024 10:38",
+                "title_activitie": "ACTA DE SORTEO",
+                "name_file": "ACTA DE SORTEO_25989864"
+            },
+            {
+                "date_activitie": "29/02/2024 10:38",
+                "title_activitie": "CARATULA DE JUICIO",
+                "name_file": "CARATULA DE JUICIO_25989864"
+            }
+        ]
+    },
+    {
+        "id": "5",
+        "C\u00e9dula/RUC/Pasaporte del Actor/Ofendido": "0968599020001",
+        "N\u00famero de proceso": "17811202302644",
+        "Fecha ingreso": "21/12/2023 13:33",
+        "Materia": "CONTENCIOSO ADMINISTRATIVO",
+        "Tipo de acci\u00f3n": "SUMARIO",
+        "Delito/Asunto": "PAGO POR CONSIGNACI\u00d3N",
+        "Judicatura": "TRIBUNAL DISTRITAL DE LO CONTENCIOSO ADMINISTRATIVO CON SEDE EN EL DISTRITO METROPOLITANO DE QUITO, PROVINCIA DE PICHINCHA",
+        "Tipo de Ingreso": "Ingreso directo",
+        "No. proceso vinculado": "",
+        "Actor/Ofendido": "Empresa Electrica Publica Estrategica Corporacion Nacional De Electricidad Cnel Ep",
+        "Demandado/Procesado": "Wilches Tacuri Ligia Mercedes",
+        "activities": [
+            {
+                "date_activitie": "13/03/2024 07:15",
+                "title_activitie": "ENVIO DEL PROCESO AL ARCHIVO GENERAL (RAZON)",
+                "name_file": "17811202302644_226528823_7_15_48_P20.pdf"
+            },
+            {
+                "date_activitie": "08/03/2024 16:09",
+                "title_activitie": "DESGLOSE DE DOCUMENTOS (RAZON)",
+                "name_file": "17811202302644_226243482_16_10_5_P20.pdf"
+            },
+            {
+                "date_activitie": "08/03/2024 16:07",
+                "title_activitie": "RAZON DE EJECUTORIA (RAZON)",
+                "name_file": "17811202302644_226242739_16_7_31_P20.pdf"
+            },
+            {
+                "date_activitie": "05/02/2024 15:34",
+                "title_activitie": "NOTIFICACION (RAZON DE NOTIFICACION)",
+                "name_file": "17811202302644_223550751_15_34_18_P21.pdf"
+            },
+            {
+                "date_activitie": "05/02/2024 15:26",
+                "title_activitie": "NOTIFICACION (AUTO DE SUSTANCIACION)",
+                "name_file": "17811202302644_223548482_15_26_53_P20.pdf"
+            },
+            {
+                "date_activitie": "05/02/2024 14:58",
+                "title_activitie": "ESCRITO",
+                "name_file": "FE PRESENTACION_60606645"
+            },
+            {
+                "date_activitie": "22/01/2024 16:22",
+                "title_activitie": "ARCHIVO POR NO COMPLETAR DEMANDA (RAZON DE NOTIFICACION)",
+                "name_file": "17811202302644_222323128_16_21_59_P21.pdf"
+            },
+            {
+                "date_activitie": "22/01/2024 10:06",
+                "title_activitie": "ARCHIVO POR NO COMPLETAR DEMANDA (AUTO INTERLOCUTORIO)",
+                "name_file": "17811202302644_222242332_10_7_17_P20.pdf"
+            },
+            {
+                "date_activitie": "11/01/2024 08:38",
+                "title_activitie": "COMPLETAR Y/O ACLARAR LA SOLICITUD Y/O DEMANDA (RAZON DE NOTIFICACION)",
+                "name_file": "17811202302644_221422306_8_38_22_P21.pdf"
+            },
+            {
+                "date_activitie": "11/01/2024 08:27",
+                "title_activitie": "COMPLETAR Y/O ACLARAR LA SOLICITUD Y/O DEMANDA (AUTO DE SUSTANCIACION)",
+                "name_file": "17811202302644_221421268_8_27_25_P20.pdf"
+            },
+            {
+                "date_activitie": "21/12/2023 13:33",
+                "title_activitie": "ACTA DE SORTEO",
+                "name_file": "ACTA DE SORTEO_25766024"
+            },
+            {
+                "date_activitie": "21/12/2023 13:33",
+                "title_activitie": "CARATULA DE JUICIO",
+                "name_file": "CARATULA DE JUICIO_25766024"
+            }
+        ]
+    },
+    {
+        "id": "6",
+        "C\u00e9dula/RUC/Pasaporte del Actor/Ofendido": "0968599020001",
+        "N\u00famero de proceso": "09802202301613",
+        "Fecha ingreso": "30/11/2023 11:42",
+        "Materia": "CONTENCIOSO ADMINISTRATIVO",
+        "Tipo de acci\u00f3n": "CONTENCIOSO ADMNISTRATIVO",
+        "Delito/Asunto": "SUBJETIVO",
+        "Judicatura": "TRIBUNAL DISTRITAL DE LO CONTENCIOSO ADMINISTRATIVO CON SEDE EN EL CANT\u00d3N GUAYAQUIL, PROVINCIA DEL GUAYAS",
+        "Tipo de Ingreso": "Ingreso directo",
+        "No. proceso vinculado": "",
+        "Actor/Ofendido": "Empresa Electrica Publica Estrategica Corporacion Nacional De Electricidad Cnel Ep",
+        "Demandado/Procesado": "Procurador General Del Estado., Mgs. Milena Charfuelan Burbano En Calidad De Subdirectora General Del Iess, O Quien Haga Sus Veces., Lic. Diego Salgado Ribadeneira En Calidad De Director General Del Iess, O Quien Haga Sus Veces., Instituto Ecuatoriano De Seguridad Social Direccion General Guayaquil",
+        "activities": [
+            {
+                "date_activitie": "07/03/2024 16:43",
+                "title_activitie": "ESCRITO",
+                "name_file": "FE PRESENTACION_61042827"
+            },
+            {
+                "date_activitie": "21/02/2024 11:42",
+                "title_activitie": "NOTIFICACION (RAZON DE NOTIFICACION)",
+                "name_file": "09802202301613_224717526_11_42_15_P21.pdf"
+            },
+            {
+                "date_activitie": "20/02/2024 16:22",
+                "title_activitie": "NOTIFICACION (AUTO DE SUSTANCIACION)",
+                "name_file": "09802202301613_224653729_16_24_40_P20.pdf"
+            },
+            {
+                "date_activitie": "19/02/2024 10:48",
+                "title_activitie": "ESCRITO",
+                "name_file": "FE PRESENTACION_60758367"
+            },
+            {
+                "date_activitie": "16/01/2024 11:30",
+                "title_activitie": "CITACI\u00d3N: Realizada - BOLETA",
+                "name_file": "Acta de citaci\u00f3n"
+            },
+            {
+                "date_activitie": "16/01/2024 11:27",
+                "title_activitie": "CITACI\u00d3N: Realizada - BOLETA",
+                "name_file": "Acta de citaci\u00f3n"
+            },
+            {
+                "date_activitie": "15/01/2024 07:55",
+                "title_activitie": "RAZON ENVIO A CITACIONES (LIC. DIEGO SALGADO RIBADENEIRA EN CALIDAD DE DIRECTOR GENERAL DEL IESS, O QUIEN HAGA SUS VECES.): TERCERA GESTI\u00d3N REALIZADA POR EL CITADOR: BOLETA 3 (DIRECCI\u00d3N PRINCIPAL) - 15/01/2024 07:55",
+                "name_file": "09802202301613_3851748_9_24_11_.pdf"
+            },
+            {
+                "date_activitie": "15/01/2024 07:51",
+                "title_activitie": "RAZON ENVIO A CITACIONES (MGS. MILENA CHARFUELAN BURBANO EN CALIDAD DE SUBDIRECTORA GENERAL DEL IESS, O QUIEN HAGA SUS VECES.): TERCERA GESTI\u00d3N REALIZADA POR EL CITADOR: BOLETA 3 (DIRECCI\u00d3N PRINCIPAL) - 15/01/2024 07:51",
+                "name_file": "09802202301613_3851748_9_24_11_.pdf"
+            },
+            {
+                "date_activitie": "12/01/2024 08:27",
+                "title_activitie": "RAZON ENVIO A CITACIONES (LIC. DIEGO SALGADO RIBADENEIRA EN CALIDAD DE DIRECTOR GENERAL DEL IESS, O QUIEN HAGA SUS VECES.): SEGUNDA GESTI\u00d3N REALIZADA POR EL CITADOR: BOLETA 2 (DIRECCI\u00d3N PRINCIPAL) - 12/01/2024 08:27",
+                "name_file": "09802202301613_3851748_9_24_11_.pdf"
+            },
+            {
+                "date_activitie": "12/01/2024 08:17",
+                "title_activitie": "RAZON ENVIO A CITACIONES (MGS. MILENA CHARFUELAN BURBANO EN CALIDAD DE SUBDIRECTORA GENERAL DEL IESS, O QUIEN HAGA SUS VECES.): SEGUNDA GESTI\u00d3N REALIZADA POR EL CITADOR: BOLETA 2 (DIRECCI\u00d3N PRINCIPAL) - 12/01/2024 08:17",
+                "name_file": "09802202301613_3851748_9_24_11_.pdf"
+            },
+            {
+                "date_activitie": "09/01/2024 09:02",
+                "title_activitie": "RAZON ENVIO A CITACIONES (LIC. DIEGO SALGADO RIBADENEIRA EN CALIDAD DE DIRECTOR GENERAL DEL IESS, O QUIEN HAGA SUS VECES.): PRIMERA GESTI\u00d3N REALIZADA POR EL CITADOR: BOLETA 1 (DIRECCI\u00d3N PRINCIPAL) - 09/01/2024 09:02",
+                "name_file": "09802202301613_3851748_9_24_11_.pdf"
+            },
+            {
+                "date_activitie": "09/01/2024 08:24",
+                "title_activitie": "RAZON ENVIO A CITACIONES (MGS. MILENA CHARFUELAN BURBANO EN CALIDAD DE SUBDIRECTORA GENERAL DEL IESS, O QUIEN HAGA SUS VECES.): PRIMERA GESTI\u00d3N REALIZADA POR EL CITADOR: BOLETA 1 (DIRECCI\u00d3N PRINCIPAL) - 09/01/2024 08:24",
+                "name_file": "09802202301613_3851748_9_24_11_.pdf"
+            },
+            {
+                "date_activitie": "08/01/2024 17:01",
+                "title_activitie": "NOTIFICACI\u00d3N: Realizada - NOTIFICACI\u00d3N \u00daNICA",
+                "name_file": "Acta de notificaci\u00f3n"
+            },
+            {
+                "date_activitie": "08/01/2024 12:02",
+                "title_activitie": "RAZON ENVIO A CITACIONES (PROCURADOR GENERAL DEL ESTADO.): PRIMERA GESTI\u00d3N REALIZADA POR EL CITADOR: BOLETA 1 (DIRECCI\u00d3N PRINCIPAL) - 08/01/2024 12:02",
+                "name_file": "09802202301613_3851748_9_24_11_.pdf"
+            },
+            {
+                "date_activitie": "22/12/2023 14:36",
+                "title_activitie": "RAZON ENVIO A CITACIONES (MGS. MILENA CHARFUELAN BURBANO EN CALIDAD DE SUBDIRECTORA GENERAL DEL IESS, O QUIEN HAGA SUS VECES.): PROCESO ASIGNADO A UN CITADOR - 22/12/2023 14:36",
+                "name_file": "09802202301613_3851748_9_24_11_.pdf"
+            },
+            {
+                "date_activitie": "22/12/2023 14:36",
+                "title_activitie": "RAZON ENVIO A CITACIONES (LIC. DIEGO SALGADO RIBADENEIRA EN CALIDAD DE DIRECTOR GENERAL DEL IESS, O QUIEN HAGA SUS VECES.): PROCESO ASIGNADO A UN CITADOR - 22/12/2023 14:36",
+                "name_file": "09802202301613_3851748_9_24_11_.pdf"
+            },
+            {
+                "date_activitie": "22/12/2023 14:36",
+                "title_activitie": "RAZON ENVIO A CITACIONES (PROCURADOR GENERAL DEL ESTADO.): PROCESO ASIGNADO A UN CITADOR - 22/12/2023 14:36",
+                "name_file": "09802202301613_3851748_9_24_11_.pdf"
+            },
+            {
+                "date_activitie": "22/12/2023 14:35",
+                "title_activitie": "RAZON ENVIO A CITACIONES (LIC. DIEGO SALGADO RIBADENEIRA EN CALIDAD DE DIRECTOR GENERAL DEL IESS, O QUIEN HAGA SUS VECES.): BOLETAS RECIBIDAS POR LA OFICINA DE CITACIONES - 22/12/2023 14:35",
+                "name_file": "09802202301613_3851748_9_24_11_.pdf"
+            },
+            {
+                "date_activitie": "22/12/2023 14:35",
+                "title_activitie": "RAZON ENVIO A CITACIONES (MGS. MILENA CHARFUELAN BURBANO EN CALIDAD DE SUBDIRECTORA GENERAL DEL IESS, O QUIEN HAGA SUS VECES.): BOLETAS RECIBIDAS POR LA OFICINA DE CITACIONES - 22/12/2023 14:35",
+                "name_file": "09802202301613_3851748_9_24_11_.pdf"
+            },
+            {
+                "date_activitie": "22/12/2023 14:35",
+                "title_activitie": "RAZON ENVIO A CITACIONES (PROCURADOR GENERAL DEL ESTADO.): BOLETAS RECIBIDAS POR LA OFICINA DE CITACIONES - 22/12/2023 14:35",
+                "name_file": "09802202301613_3851748_9_24_11_.pdf"
+            },
+            {
+                "date_activitie": "22/12/2023 09:24",
+                "title_activitie": "RAZON ENVIO A CITACIONES (LIC. DIEGO SALGADO RIBADENEIRA EN CALIDAD DE DIRECTOR GENERAL DEL IESS, O QUIEN HAGA SUS VECES.)",
+                "name_file": "09802202301613_3851748_9_24_11_.pdf"
+            },
+            {
+                "date_activitie": "22/12/2023 09:24",
+                "title_activitie": "RAZON ENVIO A CITACIONES (MGS. MILENA CHARFUELAN BURBANO EN CALIDAD DE SUBDIRECTORA GENERAL DEL IESS, O QUIEN HAGA SUS VECES.)",
+                "name_file": "09802202301613_3851748_9_24_11_.pdf"
+            },
+            {
+                "date_activitie": "22/12/2023 09:24",
+                "title_activitie": "RAZON ENVIO A CITACIONES (PROCURADOR GENERAL DEL ESTADO.)",
+                "name_file": "09802202301613_3851748_9_24_11_.pdf"
+            },
+            {
+                "date_activitie": "22/12/2023 09:18",
+                "title_activitie": "ACTA GENERAL (ACTA)",
+                "name_file": "09802202301613_220479628_9_18_22_P20.pdf"
+            },
+            {
+                "date_activitie": "12/12/2023 15:36",
+                "title_activitie": "CALIFICACION DE SOLICITUD Y/O DEMANDA (RAZON DE NOTIFICACION)",
+                "name_file": "09802202301613_219669503_15_36_46_P21.pdf"
+            },
+            {
+                "date_activitie": "12/12/2023 15:07",
+                "title_activitie": "CALIFICACION DE SOLICITUD Y/O DEMANDA (AUTO DE SUSTANCIACION)",
+                "name_file": "09802202301613_219662082_15_8_14_P20.pdf"
+            },
+            {
+                "date_activitie": "07/12/2023 10:30",
+                "title_activitie": "ESCRITO",
+                "name_file": "FE PRESENTACION_59912404"
+            },
+            {
+                "date_activitie": "04/12/2023 09:28",
+                "title_activitie": "COMPLETAR Y/O ACLARAR LA SOLICITUD Y/O DEMANDA (RAZON DE NOTIFICACION)",
+                "name_file": "09802202301613_218955075_9_28_1_P21.pdf"
+            },
+            {
+                "date_activitie": "01/12/2023 15:03",
+                "title_activitie": "COMPLETAR Y/O ACLARAR LA SOLICITUD Y/O DEMANDA (AUTO DE SUSTANCIACION)",
+                "name_file": "09802202301613_218898456_15_4_39_P20.pdf"
+            },
+            {
+                "date_activitie": "30/11/2023 11:42",
+                "title_activitie": "ACTA DE SORTEO",
+                "name_file": "ACTA DE SORTEO_25696038"
+            },
+            {
+                "date_activitie": "30/11/2023 11:42",
+                "title_activitie": "CARATULA DE JUICIO",
+                "name_file": "CARATULA DE JUICIO_25696038"
+            }
+        ]
+    },
+    {
+        "id": "7",
+        "C\u00e9dula/RUC/Pasaporte del Actor/Ofendido": "0968599020001",
+        "N\u00famero de proceso": "09332202318810",
+        "Fecha ingreso": "08/11/2023 10:49",
+        "Materia": "CIVIL",
+        "Tipo de acci\u00f3n": "ORDINARIO",
+        "Delito/Asunto": "COBRO DE DINERO",
+        "Judicatura": "UNIDAD JUDICIAL CIVIL CON SEDE EN EL CANT\u00d3N GUAYAQUIL",
+        "Tipo de Ingreso": "Ingreso directo",
+        "No. proceso vinculado": "",
+        "Actor/Ofendido": "Empresa Electrica Publica Estrategica Corporacion Nacional De Electricidad Cnel Ep",
+        "Demandado/Procesado": "Seguros Sucre S.a",
+        "activities": [
+            {
+                "date_activitie": "15/12/2023 13:16",
+                "title_activitie": "ARCHIVO POR NO COMPLETAR DEMANDA (RAZON DE NOTIFICACION)",
+                "name_file": "09332202318810_219974044_13_16_38_P21.pdf"
+            },
+            {
+                "date_activitie": "15/12/2023 12:26",
+                "title_activitie": "ARCHIVO POR NO COMPLETAR DEMANDA (AUTO INTERLOCUTORIO)",
+                "name_file": "09332202318810_219967600_12_26_8_P20.pdf"
+            },
+            {
+                "date_activitie": "30/11/2023 13:23",
+                "title_activitie": "ESCRITO",
+                "name_file": "FE PRESENTACION_59822834"
+            },
+            {
+                "date_activitie": "24/11/2023 17:09",
+                "title_activitie": "COMPLETAR Y/O ACLARAR LA SOLICITUD Y/O DEMANDA (RAZON DE NOTIFICACION)",
+                "name_file": "09332202318810_218358587_17_9_20_P21.pdf"
+            },
+            {
+                "date_activitie": "24/11/2023 16:22",
+                "title_activitie": "COMPLETAR Y/O ACLARAR LA SOLICITUD Y/O DEMANDA (AUTO DE SUSTANCIACION)",
+                "name_file": "09332202318810_218346440_16_22_24_P20.pdf"
+            },
+            {
+                "date_activitie": "15/11/2023 08:29",
+                "title_activitie": "RAZON (RAZON)",
+                "name_file": "09332202318810_217474644_8_29_59_P20.pdf"
+            },
+            {
+                "date_activitie": "08/11/2023 10:49",
+                "title_activitie": "ACTA DE SORTEO",
+                "name_file": "ACTA DE SORTEO_25617674"
+            },
+            {
+                "date_activitie": "08/11/2023 10:49",
+                "title_activitie": "CARATULA DE JUICIO",
+                "name_file": "CARATULA DE JUICIO_25617674"
+            }
+        ]
+    },
+    {
+        "id": "8",
+        "C\u00e9dula/RUC/Pasaporte del Actor/Ofendido": "0968599020001",
+        "N\u00famero de proceso": "09286202320721G",
+        "Fecha ingreso": "01/09/2023 15:15",
+        "Materia": "PENAL COIP",
+        "Tipo de acci\u00f3n": "INVESTIGACI\u00d3N PREVIA",
+        "Delito/Asunto": "ARCHIVO DE LA INVESTIGACI\u00d3N PREVIA ART. 586",
+        "Judicatura": "UNIDAD JUDICIAL NORTE 2 PENAL CON SEDE EN EL CANT\u00d3N GUAYAQUIL, PROVINCIA DEL GUAYAS",
+        "Tipo de Ingreso": "Ingreso directo",
+        "No. proceso vinculado": "",
+        "Actor/Ofendido": "Fiscalia General Del Estado, Empresa Electrica Publica Estrategica Corporacion Nacional De Electricidad Cnel Ep",
+        "Demandado/Procesado": "",
+        "activities": [
+            {
+                "date_activitie": "08/02/2024 10:53",
+                "title_activitie": "OFICIO (OFICIO)",
+                "name_file": "09286202320721G_223876736_10_54_30_P20.pdf"
+            },
+            {
+                "date_activitie": "02/01/2024 11:16",
+                "title_activitie": "ARCHIVO DE LA INVESTIGACION PREVIA (RAZON DE NOTIFICACION)",
+                "name_file": "09286202320721G_220856046_11_16_41_P21.pdf"
+            },
+            {
+                "date_activitie": "27/12/2023 12:38",
+                "title_activitie": "ARCHIVO DE LA INVESTIGACION PREVIA (AUTO RESOLUTIVO)",
+                "name_file": "09286202320721G_220668037_12_39_13_P20.pdf"
+            },
+            {
+                "date_activitie": "17/11/2023 21:23",
+                "title_activitie": "AVOCA CONOCIMIENTO (RAZON DE NOTIFICACION)",
+                "name_file": "09286202320721G_217791930_21_23_27_P21.pdf"
+            },
+            {
+                "date_activitie": "21/09/2023 13:30",
+                "title_activitie": "AVOCA CONOCIMIENTO (AUTO)",
+                "name_file": "09286202320721G_213374978_13_31_4_P20.pdf"
+            },
+            {
+                "date_activitie": "01/09/2023 15:15",
+                "title_activitie": "ACTA DE SORTEO",
+                "name_file": "ACTA DE SORTEO_25397012"
+            },
+            {
+                "date_activitie": "01/09/2023 15:15",
+                "title_activitie": "CARATULA DE JUICIO",
+                "name_file": "CARATULA DE JUICIO_25397012"
+            }
+        ]
+    },
+    {
+        "id": "9",
+        "C\u00e9dula/RUC/Pasaporte del Actor/Ofendido": "0968599020001",
+        "N\u00famero de proceso": "09U03202300283",
+        "Fecha ingreso": "31/08/2023 15:47",
+        "Materia": "PENAL COIP",
+        "Tipo de acci\u00f3n": "ACCI\u00d3N PENAL P\u00daBLICA",
+        "Delito/Asunto": "202 RECEPTACI\u00d3N",
+        "Judicatura": "UNIDAD JUDICIAL MULTICOMPETENTE EN MATERIA PENAL CON SEDE EN LA PARROQUIA SAT\u00c9LITE LA AURORA, CANT\u00d3N DAULE, PROVINCIA DE GUAYAS.",
+        "Tipo de Ingreso": "Ingreso directo",
+        "No. proceso vinculado": "",
+        "Actor/Ofendido": "Empresa Electrica Publica Estrategica Corporacion Nacional De Electricidad Cnel Ep, Fiscalia General Del Estado",
+        "Demandado/Procesado": "Lopez Holguin Stalyn Manuel",
+        "activities": [
+            {
+                "date_activitie": "06/03/2024 15:52",
+                "title_activitie": "AUDIENCIA PRESENCIAL (Acta agenda no realizada)",
+                "name_file": "AUDIENCIA PRESENCIAL"
+            },
+            {
+                "date_activitie": "06/02/2024 15:01",
+                "title_activitie": "PROVIDENCIA GENERAL (RAZON DE NOTIFICACION)",
+                "name_file": "09U03202300283_223669931_15_1_18_P21.pdf"
+            },
+            {
+                "date_activitie": "06/02/2024 13:40",
+                "title_activitie": "PROVIDENCIA GENERAL (DECRETO)",
+                "name_file": "09U03202300283_223653733_13_40_51_P20.pdf"
+            },
+            {
+                "date_activitie": "26/01/2024 10:54",
+                "title_activitie": "ESCRITO",
+                "name_file": "FE PRESENTACION_60479492"
+            },
+            {
+                "date_activitie": "17/01/2024 12:21",
+                "title_activitie": "CONVOCATORIA AUDIENCIA DE JUICIO (RAZON DE NOTIFICACION)",
+                "name_file": "09U03202300283_221916635_12_21_6_P21.pdf"
+            },
+            {
+                "date_activitie": "17/01/2024 12:09",
+                "title_activitie": "CONVOCATORIA AUDIENCIA DE JUICIO (DECRETO)",
+                "name_file": "09U03202300283_221914055_12_9_21_P20.pdf"
+            },
+            {
+                "date_activitie": "17/01/2024 10:41",
+                "title_activitie": "ESCRITO",
+                "name_file": "FE PRESENTACION_60341258"
+            },
+            {
+                "date_activitie": "08/12/2023 10:45",
+                "title_activitie": "CONVOCATORIA AUDIENCIA DE JUICIO (RAZON DE NOTIFICACION)",
+                "name_file": "09U03202300283_219408431_10_45_48_P21.pdf"
+            },
+            {
+                "date_activitie": "07/12/2023 15:28",
+                "title_activitie": "CONVOCATORIA AUDIENCIA DE JUICIO (DECRETO)",
+                "name_file": "09U03202300283_219355663_15_29_9_P20.pdf"
+            },
+            {
+                "date_activitie": "23/11/2023 10:14",
+                "title_activitie": "ESCRITO",
+                "name_file": "FE PRESENTACION_59721718"
+            },
+            {
+                "date_activitie": "20/10/2023 09:03",
+                "title_activitie": "AUDIENCIA PRESENCIAL (Acta agenda no realizada)",
+                "name_file": "AUDIENCIA PRESENCIAL"
+            },
+            {
+                "date_activitie": "19/10/2023 13:57",
+                "title_activitie": "OFICIO",
+                "name_file": "FE PRESENTACION_59290346"
+            },
+            {
+                "date_activitie": "02/10/2023 16:25",
+                "title_activitie": "CONVOCATORIA AUDIENCIA DE JUICIO (RAZON DE NOTIFICACION)",
+                "name_file": "09U03202300283_214230642_16_25_33_P21.pdf"
+            },
+            {
+                "date_activitie": "02/10/2023 16:03",
+                "title_activitie": "CONVOCATORIA AUDIENCIA DE JUICIO (DECRETO)",
+                "name_file": "09U03202300283_214223866_16_3_56_P20.pdf"
+            },
+            {
+                "date_activitie": "28/09/2023 10:08",
+                "title_activitie": "ESCRITO",
+                "name_file": "FE PRESENTACION_59006284"
+            },
+            {
+                "date_activitie": "27/09/2023 08:47",
+                "title_activitie": "AUDIENCIA PRESENCIAL (Acta agenda no realizada)",
+                "name_file": "AUDIENCIA PRESENCIAL"
+            },
+            {
+                "date_activitie": "20/09/2023 11:47",
+                "title_activitie": "CONVOCATORIA AUDIENCIA DE JUICIO (RAZON DE NOTIFICACION)",
+                "name_file": "09U03202300283_213241374_11_47_40_P21.pdf"
+            },
+            {
+                "date_activitie": "20/09/2023 11:43",
+                "title_activitie": "CONVOCATORIA AUDIENCIA DE JUICIO (DECRETO)",
+                "name_file": "09U03202300283_213240516_11_44_11_P20.pdf"
+            },
+            {
+                "date_activitie": "20/09/2023 08:25",
+                "title_activitie": "ESCRITO",
+                "name_file": "FE PRESENTACION_58886519"
+            },
+            {
+                "date_activitie": "19/09/2023 11:05",
+                "title_activitie": "ESCRITO",
+                "name_file": "FE PRESENTACION_58871757"
+            },
+            {
+                "date_activitie": "07/09/2023 08:45",
+                "title_activitie": "ANUNCIACION Y DESPACHO DE PRUEBA (RAZON DE NOTIFICACION)",
+                "name_file": "09U03202300283_212148898_8_45_8_P21.pdf"
+            },
+            {
+                "date_activitie": "06/09/2023 16:59",
+                "title_activitie": "ANUNCIACION Y DESPACHO DE PRUEBA (DECRETO)",
+                "name_file": "09U03202300283_212134455_17_0_7_P20.pdf"
+            },
+            {
+                "date_activitie": "05/09/2023 14:28",
+                "title_activitie": "OFICIO",
+                "name_file": "FE PRESENTACION_58684139"
+            },
+            {
+                "date_activitie": "01/09/2023 10:01",
+                "title_activitie": "CONVOCATORIA AUDIENCIA DE JUICIO (RAZON DE NOTIFICACION)",
+                "name_file": "09U03202300283_211694368_10_1_38_P21.pdf"
+            },
+            {
+                "date_activitie": "01/09/2023 09:50",
+                "title_activitie": "CONVOCATORIA AUDIENCIA DE JUICIO (DECRETO)",
+                "name_file": "09U03202300283_211692772_9_51_27_P20.pdf"
+            },
+            {
+                "date_activitie": "31/08/2023 17:24",
+                "title_activitie": "OFICIO (OFICIO)",
+                "name_file": "09U03202300283_211673112_17_24_34_P20.pdf"
+            },
+            {
+                "date_activitie": "31/08/2023 16:27",
+                "title_activitie": "CONVOCATORIA AUDIENCIA DE CALIFICACION DE FLAGRANCIA (RAZON DE NOTIFICACION)",
+                "name_file": "09U03202300283_211658560_16_27_41_P21.pdf"
+            },
+            {
+                "date_activitie": "31/08/2023 16:26",
+                "title_activitie": "CONVOCATORIA AUDIENCIA DE CALIFICACION DE FLAGRANCIA (DECRETO)",
+                "name_file": "09U03202300283_211658126_16_26_28_P20.pdf"
+            },
+            {
+                "date_activitie": "31/08/2023 15:47",
+                "title_activitie": "ACTA DE SORTEO",
+                "name_file": "ACTA DE SORTEO_25392744"
+            },
+            {
+                "date_activitie": "31/08/2023 15:47",
+                "title_activitie": "CARATULA DE JUICIO",
+                "name_file": "CARATULA DE JUICIO_25392744"
+            }
+        ]
+    },
+    {
+        "id": "10",
+        "C\u00e9dula/RUC/Pasaporte del Actor/Ofendido": "0968599020001",
+        "N\u00famero de proceso": "17811202301639",
+        "Fecha ingreso": "17/08/2023 16:21",
+        "Materia": "CONTENCIOSO ADMINISTRATIVO",
+        "Tipo de acci\u00f3n": "CONTENCIOSO ADMNISTRATIVO",
+        "Delito/Asunto": "SUBJETIVO",
+        "Judicatura": "TRIBUNAL DISTRITAL DE LO CONTENCIOSO ADMINISTRATIVO CON SEDE EN EL DISTRITO METROPOLITANO DE QUITO, PROVINCIA DE PICHINCHA",
+        "Tipo de Ingreso": "Ingreso directo",
+        "No. proceso vinculado": "",
+        "Actor/Ofendido": "Empresa Electrica Publica Estrategica Corporacion Nacional De Electricidad Cnel Ep",
+        "Demandado/Procesado": "Almaroselec S.a.",
+        "activities": [
+            {
+                "date_activitie": "03/10/2023 09:54",
+                "title_activitie": "RECHAZAR REVOCATORIA Y/O REFORMA (RAZON DE NOTIFICACION)",
+                "name_file": "17811202301639_214268053_9_54_19_P21.pdf"
+            },
+            {
+                "date_activitie": "02/10/2023 12:46",
+                "title_activitie": "RECHAZAR REVOCATORIA Y/O REFORMA (AUTO INTERLOCUTORIO)",
+                "name_file": "17811202301639_214186694_12_46_27_P20.pdf"
+            },
+            {
+                "date_activitie": "27/09/2023 14:23",
+                "title_activitie": "ESCRITO",
+                "name_file": "FE PRESENTACION_58995240"
+            },
+            {
+                "date_activitie": "22/09/2023 15:35",
+                "title_activitie": "INADMISION DE LA DEMANDA ART. 147 # 1 (RAZON DE NOTIFICACION)",
+                "name_file": "17811202301639_213510249_15_35_13_P21.pdf"
+            },
+            {
+                "date_activitie": "22/09/2023 15:20",
+                "title_activitie": "INADMISION DE LA DEMANDA ART. 147 # 1 (AUTO INTERLOCUTORIO)",
+                "name_file": "17811202301639_213506911_15_20_40_P20.pdf"
+            },
+            {
+                "date_activitie": "17/08/2023 16:21",
+                "title_activitie": "ACTA DE SORTEO",
+                "name_file": "ACTA DE SORTEO_25342252"
+            },
+            {
+                "date_activitie": "17/08/2023 16:21",
+                "title_activitie": "CARATULA DE JUICIO",
+                "name_file": "CARATULA DE JUICIO_25342252"
+            }
+        ]
+    }
+]
