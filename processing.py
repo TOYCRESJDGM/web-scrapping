@@ -1,10 +1,16 @@
 import threading
 import json
+import os
 from selenium_scrapping import scrapping_page
+from dotenv import load_dotenv
+
+#Load Variables .env
+load_dotenv()
 
 def processing():
+    file_path = os.getenv("JSON_SCRAPPING_DATA", "scrapping_data.json")
     # Abre el archivo JSON y lee su contenido
-    with open('scrapping_data.json', 'r') as file:
+    with open(file_path, 'r') as file:
         content = file.read()
     
     processing_data =  json.loads(content)

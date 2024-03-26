@@ -1,5 +1,6 @@
 import time
 import json
+import os
 from selenium import webdriver
 from selenium.webdriver.common.keys import Keys
 from selenium.webdriver.chrome.service import Service
@@ -7,11 +8,16 @@ from selenium.webdriver.support.ui import WebDriverWait
 from selenium.common.exceptions import NoSuchElementException
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.common.action_chains import ActionChains
+from dotenv import load_dotenv
 from selenium.webdriver.common.by import By
 
+#Load Variables .env
+load_dotenv()
+
 def write_json(data):
+    file_path = os.getenv("JSON_COLLECTED", "data_collected.json")
     try:
-        with open("data_collected.json", "r", encoding="utf-8") as archivo_json:
+        with open(file_path, "r", encoding="utf-8") as archivo_json:
             content_exist = archivo_json.read()
             data_exist = json.loads(content_exist)
     except json.JSONDecodeError:
@@ -20,7 +26,7 @@ def write_json(data):
     data_exist.extend(data)
     
     # Escribir la estructura de datos actualizada de vuelta al archivo JSON
-    with open("data_collected.json", "w", encoding="utf-8") as archivo_json:
+    with open(file_path, "w", encoding="utf-8") as archivo_json:
         # Escribir la estructura de datos actualizada en el archivo JSON
         json.dump(data_exist, archivo_json, indent=4)
         print("Data correctly collected")
@@ -29,18 +35,21 @@ def write_json(data):
 def scrapping_page(type, identification_number):
 
     # Configura el servicio de ChromeDriver
-    chrome_driver_path = r"C:\Users\USUARIO\Desktop\chromedriver-win64\chromedriver.exe"
+    
+    chrome_driver_path = os.getenv("CHROME_DRIVER_PATH")
 
     # Crea un objeto Service y arranca el servicio
-    service = Service(chrome_driver_path)
+    service = Service(r"{}".format(chrome_driver_path))
     service.start()
+
+    dowload_directory = os.getenv("DOWNLOAD_DIRECTORY")
 
     # Configura las opciones del navegador
     options = webdriver.ChromeOptions()
     #options.add_argument('--headless')  # Ejecución en modo headless (sin interfaz gráfica)
     options.add_argument('--no-sandbox')  # Evita problemas de sandbox
     options.add_experimental_option("prefs", {
-        "download.default_directory": r"C:\Users\USUARIO\Documents\test\web-scrapping\downloads",
+        "download.default_directory": r"{}".format(dowload_directory),
         "download.prompt_for_download": False,  # Desactiva el diálogo de confirmación de descarga
         "download.directory_upgrade": True,
         "safebrowsing.enabled": True
@@ -50,7 +59,7 @@ def scrapping_page(type, identification_number):
     driver = webdriver.Chrome(service=service, options=options)
 
     # URL Inicial
-    url = 'https://procesosjudiciales.funcionjudicial.gob.ec/busqueda-filtros'
+    url = os.getenv("INITIAL_URL")
 
     # Carga la página
     driver.get(url)
@@ -173,4 +182,3 @@ def scrapping_page(type, identification_number):
 
     # Cerrar el navegador
     driver.quit()
-        

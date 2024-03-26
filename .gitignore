@@ -1,0 +1,14 @@
+# Virtual environment
+venv/
+.env
+
+# IDE files
+.vscode/
+.idea/
+
+# Compiled Python files
+*.pyc
+__pycache__/
+
+# Dependency directories
+site-packages/

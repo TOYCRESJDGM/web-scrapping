@@ -3,6 +3,7 @@ from fastapi.security import HTTPBasic, HTTPBasicCredentials
 from fastapi.testclient import TestClient
 from typing import List, Any
 import json
+import os 
 
 app = FastAPI()
 
@@ -13,7 +14,7 @@ def load_data_from_json(file_path: str) -> List[dict]:
     except json.JSONDecodeError:
         return []
     
-file_path = "data_collected.json"
+file_path = os.getenv("JSON_FILE_PATH", "data_collected.json")
 data = load_data_from_json(file_path)
 
 #  Authorization and authentication system
@@ -21,8 +22,8 @@ security = HTTPBasic()
 
 # Function to verify credentials
 def verificar_credenciales(credentials: HTTPBasicCredentials = Depends(security)):
-    correct_username = "user"
-    correct_password = "password"
+    correct_username = os.getenv("USER", "user")
+    correct_password = os.getenv("PASSWORD", "password")
     if credentials.username != correct_username or credentials.password != correct_password:
         raise HTTPException(
             status_code=status.HTTP_401_UNAUTHORIZED,
